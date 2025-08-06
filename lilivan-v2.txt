@@ -1,0 +1,16 @@
+-----Iniciar Sesión-----
+Nombre : Edwin Alejandro Esquivel Bahamon (debe escribirlo completo o no dejara iniciar sesión)
+Número de Documento : 1082804399 
+
+
+-----Panel admin-----
+
+Para ingresar como administrador ingresara los siguientes datos: 
+
+Correo : admin@lilivan.com
+Contraseña : admin1234
+
+Para ingresar como asistente ingrese los siguientes datos: 
+
+Correo : mewing@gmail.com
+Contraseña : 2025
